@@ -1,0 +1,206 @@
+CarName;fueltype;doornumber;carbody;cylindernumber;enginesize;horsepower;peakrpm;price
+alfa-romero giulia;gas;two;convertible;four;130;111;5000;13495
+alfa-romero stelvio;gas;two;convertible;four;130;111;5000;16500
+alfa-romero Quadrifoglio;gas;two;hatchback;six;152;154;5000;16500
+audi 100 ls;gas;four;sedan;four;109;102;5500;13950
+audi 100ls;gas;four;sedan;five;136;115;5500;17450
+audi fox;gas;two;sedan;five;136;110;5500;15250
+audi 100ls;gas;four;sedan;five;136;110;5500;17710
+audi 5000;gas;four;wagon;five;136;110;5500;18920
+audi 4000;gas;four;sedan;five;131;140;5500;23875
+audi 5000s (diesel);gas;two;hatchback;five;131;160;5500;17.859.167
+bmw 320i;gas;two;sedan;four;108;101;5800;16430
+bmw 320i;gas;four;sedan;four;108;101;5800;16925
+bmw x1;gas;two;sedan;six;164;121;4250;20970
+bmw x3;gas;four;sedan;six;164;121;4250;21105
+bmw z4;gas;four;sedan;six;164;121;4250;24565
+bmw x4;gas;four;sedan;six;209;182;5400;30760
+bmw x5;gas;two;sedan;six;209;182;5400;41315
+bmw x3;gas;four;sedan;six;209;182;5400;36880
+chevrolet impala;gas;two;hatchback;three;61;48;5100;5151
+chevrolet monte carlo;gas;two;hatchback;four;90;70;5400;6295
+chevrolet vega 2300;gas;four;sedan;four;90;70;5400;6575
+dodge rampage;gas;two;hatchback;four;90;68;5500;5572
+dodge challenger se;gas;two;hatchback;four;90;68;5500;6377
+dodge d200;gas;two;hatchback;four;98;102;5500;7957
+dodge monaco (sw);gas;four;hatchback;four;90;68;5500;6229
+dodge colt hardtop;gas;four;sedan;four;90;68;5500;6692
+dodge colt (sw);gas;four;sedan;four;90;68;5500;7609
+dodge coronet custom;gas;two;sedan;four;98;102;5500;8558
+dodge dart custom;gas;four;wagon;four;122;88;5000;8921
+dodge coronet custom (sw);gas;two;hatchback;four;156;145;5000;12964
+honda civic;gas;two;hatchback;four;92;58;4800;6479
+honda civic cvcc;gas;two;hatchback;four;92;76;6000;6855
+honda civic;gas;two;hatchback;four;79;60;5500;5399
+honda accord cvcc;gas;two;hatchback;four;92;76;6000;6529
+honda civic cvcc;gas;two;hatchback;four;92;76;6000;7129
+honda accord lx;gas;four;sedan;four;92;76;6000;7295
+honda civic 1500 gl;gas;four;wagon;four;92;76;6000;7295
+honda accord;gas;two;hatchback;four;110;86;5800;7895
+honda civic 1300;gas;two;hatchback;four;110;86;5800;9095
+honda prelude;gas;four;sedan;four;110;86;5800;8845
+honda accord;gas;four;sedan;four;110;86;5800;10295
+honda civic;gas;four;sedan;four;110;101;5800;12945
+honda civic (auto);gas;two;sedan;four;110;100;5500;10345
+isuzu MU-X;gas;four;sedan;four;111;78;4800;6785
+isuzu D-Max ;gas;two;sedan;four;90;70;5400;8916.5
+isuzu D-Max V-Cross;gas;four;sedan;four;90;70;5400;8916.5
+isuzu D-Max ;gas;two;hatchback;four;119;90;5000;11048
+jaguar xj;gas;four;sedan;six;258;176;4750;32250
+jaguar xf;gas;four;sedan;six;258;176;4750;35550
+jaguar xk;gas;two;sedan;twelve;326;262;5000;36000
+maxda rx3;gas;two;hatchback;four;91;68;5000;5195
+maxda glc deluxe;gas;two;hatchback;four;91;68;5000;6095
+mazda rx2 coupe;gas;two;hatchback;four;91;68;5000;6795
+mazda rx-4;gas;four;sedan;four;91;68;5000;6695
+mazda glc deluxe;gas;four;sedan;four;91;68;5000;7395
+mazda 626;gas;two;hatchback;two;70;101;6000;10945
+mazda glc;gas;two;hatchback;two;70;101;6000;11845
+mazda rx-7 gs;gas;two;hatchback;two;70;101;6000;13645
+mazda glc 4;gas;two;hatchback;two;80;135;6000;15645
+mazda 626;gas;two;hatchback;four;122;84;4800;8845
+mazda glc custom l;gas;four;sedan;four;122;84;4800;8495
+mazda glc custom;gas;two;hatchback;four;122;84;4800;10595
+mazda rx-4;gas;four;sedan;four;122;84;4800;10245
+mazda glc deluxe;diesel;four;sedan;four;122;64;4650;10795
+mazda 626;gas;four;hatchback;four;122;84;4800;11245
+mazda glc;gas;four;sedan;four;140;120;5000;18280
+mazda rx-7 gs;diesel;four;sedan;four;134;72;4200;18344
+buick electra 225 custom;diesel;four;sedan;five;183;123;4350;25552
+buick century luxus (sw);diesel;four;wagon;five;183;123;4350;28248
+buick century;diesel;two;hardtop;five;183;123;4350;28176
+buick skyhawk;diesel;four;sedan;five;183;123;4350;31600
+buick opel isuzu deluxe;gas;four;sedan;eight;234;155;4750;34184
+buick skylark;gas;two;convertible;eight;234;155;4750;35056
+buick century special;gas;four;sedan;eight;308;184;4500;40960
+buick regal sport coupe (turbo);gas;two;hardtop;eight;304;184;4500;45400
+mercury cougar;gas;two;hatchback;four;140;175;5000;16503
+mitsubishi mirage;gas;two;hatchback;four;92;68;5500;5389
+mitsubishi lancer;gas;two;hatchback;four;92;68;5500;6189
+mitsubishi outlander;gas;two;hatchback;four;92;68;5500;6669
+mitsubishi g4;gas;two;hatchback;four;98;102;5500;7689
+mitsubishi mirage g4;gas;two;hatchback;four;110;116;5500;9959
+mitsubishi g4;gas;two;hatchback;four;122;88;5000;8499
+mitsubishi outlander;gas;two;hatchback;four;156;145;5000;12629
+mitsubishi g4;gas;two;hatchback;four;156;145;5000;14869
+mitsubishi mirage g4;gas;two;hatchback;four;156;145;5000;14489
+mitsubishi montero;gas;four;sedan;four;122;88;5000;6989
+mitsubishi pajero;gas;four;sedan;four;122;88;5000;8189
+mitsubishi outlander;gas;four;sedan;four;110;116;5500;9279
+mitsubishi mirage g4;gas;four;sedan;four;110;116;5500;9279
+Nissan versa;gas;two;sedan;four;97;69;5200;5499
+nissan gt-r;diesel;two;sedan;four;103;55;4800;7099
+nissan rogue;gas;two;sedan;four;97;69;5200;6649
+nissan latio;gas;four;sedan;four;97;69;5200;6849
+nissan titan;gas;four;wagon;four;97;69;5200;7349
+nissan leaf;gas;two;sedan;four;97;69;5200;7299
+nissan juke;gas;two;hatchback;four;97;69;5200;7799
+nissan latio;gas;four;sedan;four;97;69;5200;7499
+nissan note;gas;four;wagon;four;97;69;5200;7999
+nissan clipper;gas;two;hardtop;four;97;69;5200;8249
+nissan rogue;gas;four;hatchback;four;120;97;5200;8949
+nissan nv200;gas;four;sedan;four;120;97;5200;9549
+nissan dayz;gas;four;sedan;six;181;152;5200;13499
+nissan fuga;gas;four;wagon;six;181;152;5200;14399
+nissan otti;gas;four;sedan;six;181;152;5200;13499
+nissan teana;gas;two;hatchback;six;181;160;5200;17199
+nissan kicks;gas;two;hatchback;six;181;200;5200;19699
+nissan clipper;gas;two;hatchback;six;181;160;5200;18399
+peugeot 504;gas;four;sedan;four;120;97;5000;11900
+peugeot 304;diesel;four;sedan;four;152;95;4150;13200
+peugeot 504 (sw);gas;four;wagon;four;120;97;5000;12440
+peugeot 504;diesel;four;wagon;four;152;95;4150;13860
+peugeot 504;gas;four;sedan;four;120;95;5000;15580
+peugeot 604sl;diesel;four;sedan;four;152;95;4150;16900
+peugeot 504;gas;four;wagon;four;120;95;5000;16695
+peugeot 505s turbo diesel;diesel;four;wagon;four;152;95;4150;17075
+peugeot 504;gas;four;sedan;four;120;97;5000;16630
+peugeot 504;diesel;four;sedan;four;152;95;4150;17950
+peugeot 604sl;gas;four;sedan;four;134;142;5600;18150
+plymouth fury iii;gas;two;hatchback;four;90;68;5500;5572
+plymouth cricket;gas;two;hatchback;four;98;102;5500;7957
+plymouth fury iii;gas;four;hatchback;four;90;68;5500;6229
+plymouth satellite custom (sw);gas;four;sedan;four;90;68;5500;6692
+plymouth fury gran sedan;gas;four;sedan;four;98;68;5500;7609
+plymouth valiant;gas;four;wagon;four;122;88;5000;8921
+plymouth duster;gas;two;hatchback;four;156;145;5000;12764
+porsche macan;gas;two;hatchback;four;151;143;5500;22018
+porcshce panamera;gas;two;hardtop;six;194;207;5900;32528
+porsche cayenne;gas;two;hardtop;six;194;207;5900;34028
+porsche boxter;gas;two;convertible;six;194;207;5900;37028
+porsche cayenne;gas;two;hatchback;eight;203;288;5750;31400.5
+renault 12tl;gas;four;wagon;four;132;90;5100;9295
+renault 5 gtl;gas;two;hatchback;four;132;90;5100;9895
+saab 99e;gas;two;hatchback;four;121;110;5250;11850
+saab 99le;gas;four;sedan;four;121;110;5250;12170
+saab 99le;gas;two;hatchback;four;121;110;5250;15040
+saab 99gle;gas;four;sedan;four;121;110;5250;15510
+saab 99gle;gas;two;hatchback;four;121;160;5500;18150
+saab 99e;gas;four;sedan;four;121;160;5500;18620
+subaru;gas;two;hatchback;four;97;69;4900;5118
+subaru dl;gas;two;hatchback;four;108;73;4400;7053
+subaru dl;gas;two;hatchback;four;108;73;4400;7603
+subaru;gas;four;sedan;four;108;82;4800;7126
+subaru brz;gas;four;sedan;four;108;82;4400;7775
+subaru baja;gas;four;sedan;four;108;94;5200;9960
+subaru r1;gas;four;sedan;four;108;82;4800;9233
+subaru r2;gas;four;sedan;four;108;111;4800;11259
+subaru trezia;gas;four;wagon;four;108;82;4800;7463
+subaru tribeca;gas;four;wagon;four;108;94;5200;10198
+subaru dl;gas;four;wagon;four;108;82;4800;8013
+subaru dl;gas;four;wagon;four;108;111;4800;11694
+toyota corona mark ii;gas;two;hatchback;four;92;62;4800;5348
+toyota corona;gas;two;hatchback;four;92;62;4800;6338
+toyota corolla 1200;gas;four;hatchback;four;92;62;4800;6488
+toyota corona hardtop;gas;four;wagon;four;92;62;4800;6918
+toyota corolla 1600 (sw);gas;four;wagon;four;92;62;4800;7898
+toyota carina;gas;four;wagon;four;92;62;4800;8778
+toyota mark ii;gas;four;sedan;four;98;70;4800;6938
+toyota corolla 1200;gas;four;hatchback;four;98;70;4800;7198
+toyota corona;diesel;four;sedan;four;110;56;4500;7898
+toyota corolla;diesel;four;hatchback;four;110;56;4500;7788
+toyota corona;gas;four;sedan;four;98;70;4800;7738
+toyota corolla;gas;four;hatchback;four;98;70;4800;8358
+toyota mark ii;gas;four;sedan;four;98;70;4800;9258
+toyota corolla liftback;gas;two;sedan;four;98;70;4800;8058
+toyota corona;gas;two;hatchback;four;98;70;4800;8238
+toyota celica gt liftback;gas;two;sedan;four;98;112;6600;9298
+toyota corolla tercel;gas;two;hatchback;four;98;112;6600;9538
+toyota corona liftback;gas;two;hardtop;four;146;116;4800;8449
+toyota corolla;gas;two;hardtop;four;146;116;4800;9639
+toyota starlet;gas;two;hatchback;four;146;116;4800;9989
+toyota tercel;gas;two;hardtop;four;146;116;4800;11199
+toyota corolla;gas;two;hatchback;four;146;116;4800;11549
+toyota cressida;gas;two;convertible;four;146;116;4800;17669
+toyota corolla;gas;four;sedan;four;122;92;4200;8948
+toyota celica gt;diesel;four;sedan;four;110;73;4500;10698
+toyota corona;gas;four;hatchback;four;122;92;4200;9988
+toyota corolla;gas;four;sedan;four;122;92;4200;10898
+toyota mark ii;gas;four;hatchback;four;122;92;4200;11248
+toyota corolla liftback;gas;two;hatchback;six;171;161;5200;16558
+toyota corona;gas;two;hatchback;six;171;161;5200;15998
+toyota starlet;gas;four;sedan;six;171;156;5200;15690
+toyouta tercel;gas;four;wagon;six;161;156;5200;15750
+vokswagen rabbit;diesel;two;sedan;four;97;52;4800;7775
+volkswagen 1131 deluxe sedan;gas;two;sedan;four;109;85;5250;7975
+volkswagen model 111;diesel;four;sedan;four;97;52;4800;7995
+volkswagen type 3;gas;four;sedan;four;109;85;5250;8195
+volkswagen 411 (sw);gas;four;sedan;four;109;85;5250;8495
+volkswagen super beetle;diesel;four;sedan;four;97;68;4500;9495
+volkswagen dasher;gas;four;sedan;four;109;100;5500;9995
+vw dasher;gas;two;convertible;four;109;90;5500;11595
+vw rabbit;gas;two;hatchback;four;109;90;5500;9980
+volkswagen rabbit;gas;four;sedan;five;136;110;5500;13295
+volkswagen rabbit custom;diesel;four;sedan;four;97;68;4500;13845
+volkswagen dasher;gas;four;wagon;four;109;88;5500;12290
+volvo 145e (sw);gas;four;sedan;four;141;114;5400;12940
+volvo 144ea;gas;four;wagon;four;141;114;5400;13415
+volvo 244dl;gas;four;sedan;four;141;114;5400;15985
+volvo 245;gas;four;wagon;four;141;114;5400;16515
+volvo 264gl;gas;four;sedan;four;130;162;5100;18420
+volvo diesel;gas;four;wagon;four;130;162;5100;18950
+volvo 145e (sw);gas;four;sedan;four;141;114;5400;16845
+volvo 144ea;gas;four;sedan;four;141;160;5300;19045
+volvo 244dl;gas;four;sedan;six;173;134;5500;21485
+volvo 246;diesel;four;sedan;six;145;106;4800;22470
+volvo 264gl;gas;four;sedan;four;141;114;5400;22625
